@@ -34,7 +34,7 @@ Once Phoenix is installed
   * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
 ## Using the api
-Once the app is started by running "mix phx.server" you can use a tool like postman to make calls. For example, to see the list of food trucks in zipcode 28853 make a GET request to this endpoint - http://localhost:4000/api/vendores/28853
+Once the app is started by running "mix phx.server" you can use a tool like postman to make calls. For example, to see the list of food trucks in zipcode 28853 make a GET request to this endpoint - http://localhost:4000/api/vendors/28853
 
 ## Learn more
 
